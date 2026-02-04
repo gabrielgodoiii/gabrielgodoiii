@@ -12,7 +12,7 @@ Possuo experiência acadêmica e prática com **Python e SQL**, aplicando esses 
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:gabrielgodoitei@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRnXmqprrRTCVfdJxCsKCQpzKmVcWwNfQZTxQxtrDBxjTQzwJrMVFgPgLhsHlHjxXblrqXG">
     <img
       src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
